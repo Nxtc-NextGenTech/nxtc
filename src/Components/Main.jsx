@@ -11,7 +11,7 @@ function Main() {
 
         <ReactTyped
           className="font-thin text-2xl mt-2"
-          strings={["Leading Software Developing Firm"]}
+          strings={["Leading Software Development Firm"]}
           typeSpeed={100}
           backSpeed={140}
           loop={true}
